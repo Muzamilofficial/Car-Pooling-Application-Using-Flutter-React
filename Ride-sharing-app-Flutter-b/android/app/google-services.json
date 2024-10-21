@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "230154274088",
+    "firebase_url": "https://carpolfyp-default-rtdb.firebaseio.com",
+    "project_id": "carpolfyp",
+    "storage_bucket": "carpolfyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230154274088:android:6bc86208cc4875eaff7c1d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCvocQWkqjltHuYc3zZtVGx6LyBnlEH-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
