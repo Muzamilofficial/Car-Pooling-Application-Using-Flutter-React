@@ -28,15 +28,6 @@ Before you start, ensure you have the following installed:
 
 ---
 
-## 🛠️ Installation
-
-### Clone the Repository
-```bash
-git clone https://github.com/Muzamilofficial/car-pooling-app.git
-cd car-pooling-app
-
----
-
 # 📸 Some Screenshots of the Project 🖼️✨
 
 ![image](https://github.com/user-attachments/assets/5774afab-d00f-438f-a760-bec0d88d4553)
