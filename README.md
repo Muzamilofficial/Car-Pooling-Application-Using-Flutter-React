@@ -38,6 +38,7 @@ cd car-pooling-app
 ---
 
 # 📸 Some Screenshots of the Project 🖼️✨
+
 ![image](https://github.com/user-attachments/assets/5774afab-d00f-438f-a760-bec0d88d4553)
 ![image](https://github.com/user-attachments/assets/2ac0efbe-47d1-45a5-93d0-b97d88dee9fc)
 ![image](https://github.com/user-attachments/assets/6bbdcc46-3bb9-40a6-b5f8-e2f68436e5c8)
